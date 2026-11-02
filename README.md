@@ -3,7 +3,7 @@ Projeto desenvolvido para a disciplina de 'Front-End para Web' no 1° semestre d
 
 ## 💻 Tecnologias Utilizadas
 * **Linguagem:**
-* HTML | CSS
+* HTML | CSS - Bootstrap
 
 ## 📸 Demonstração Visual
 
